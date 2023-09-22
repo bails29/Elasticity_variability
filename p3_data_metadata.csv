@@ -1,0 +1,14 @@
+column_name,description
+region,Bukovsky region
+Year,water year
+quantile,streamflow quantile for which elasticity is estimated
+Estimate,Estimated streamflow elasticity to precipitation 
+Std..Error,Standard error on elasticity estimate
+P_value,p value on elasticity elstimate
+upper,upper bound of the 95% confidence interval
+lower,lower bound of the 95% confidence interval
+cv,coefficient of variation of interannual elasticity
+mk_pvalue,pvale on mann kendall trend test
+sens_slope,sens slope multiplied by 39 for mk test
+mk_symbol,symbol to plot mk trend result
+regional_mean_CV,regional average CV across 3 flow percentiles. 

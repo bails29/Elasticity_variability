@@ -1,0 +1,12 @@
+column_name,description
+region,Bukovsky region
+Year,water year
+quantile,streamflow quantile for which elasticity is estimated
+lag,lag_0 = same water year; lag_1 = previous water year; lag_2 = 2 wateryears previous
+Estimate,Estimated streamflow elasticity to precipitation 
+STA,standardized temperature anomaly by region
+STA_cor,Pearson corrleation between elasticity and STA
+STA_cor_p,p value of pearson correlation between elasticity and STA
+SPI,standardized precipitation index by region
+SPI_cor,Pearson corrleation between elasticity and SPI
+SPI_cor_p,p value of pearson correlation between elasticity and SPI

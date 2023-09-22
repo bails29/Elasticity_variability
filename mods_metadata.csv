@@ -1,0 +1,7 @@
+column_name,description
+STAID,Unique catchment identifier
+region,Bukovsky region
+mean_var,regional average CV across 3 flow percentiles. 
+id,moderator labels for boxplots 
+values,moderator values for each catchment
+variance_group,grouping by coefficient of variation for boxplot colors. 
